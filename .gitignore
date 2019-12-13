@@ -1,0 +1,4 @@
+*.swp
+*.tmp
+/calc
+/calc-cli
